@@ -1,0 +1,1 @@
+# pretius-horizontal-stacked-bar-chart-plugin
